@@ -109,7 +109,7 @@ G114514次列车即将进站，请工作人员做好接车准备！
 
 # 12. yolo
 
-使用yolo v3进行发送图片的目标检测
+使用yolo v3对发送图片进行目标检测
 
 需要从<https://pjreddie.com/media/files/yolov3.weights>下载yolo v3权重文件并放入/cfg文件夹中
 
