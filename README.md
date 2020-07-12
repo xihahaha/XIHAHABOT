@@ -5,6 +5,8 @@
 感谢NoneBot的开发者们：
 https://github.com/nonebot/nonebot
 
+喜欢的话点个star呗(๑´ㅂ`๑)
+
 以下为配料表及食用方式
 
 # 0. 初始化
