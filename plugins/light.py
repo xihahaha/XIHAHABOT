@@ -5,7 +5,7 @@ import requests
 evt_on = 'lighton'
 evt_off = 'lightoff'
 evt_bright = 'lightbrightness'
-key = 'dV7RowWzCO9Te38TaE7T5b'
+key = '这里填入IFTTT的KEY'
 
 
 @on_command('lighton', aliases='开灯')
