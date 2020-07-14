@@ -111,7 +111,7 @@ G114514次列车即将进站，请工作人员做好接车准备！
 
 使用YOLOv5x对发送图片进行目标检测
 
-需要从<https://drive.google.com/drive/folders/1Drs_Aiu7xx6S-ix95f9kNsA6ueKRpN2J>下载yolov5x.pt权重文件并放入weights文件夹中
+在根目录新建weights文件夹并从<https://drive.google.com/drive/folders/1Drs_Aiu7xx6S-ix95f9kNsA6ueKRpN2J>下载yolov5x.pt权重文件并放入weights文件夹中
 
 使用方式如下图
 
